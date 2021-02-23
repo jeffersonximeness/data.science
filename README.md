@@ -5,7 +5,7 @@
 # Jefferson Ximenes
 <sub>Graduando em ciência da computação</sub>
 
-Estou me formando em ciência da computação e focado no estudo e aplicação de modelos de ciência de dados, aprendizado de máquina e inteligência artificial.
+Estou me formando em ciência da computação e estou focado no estudo e aplicação de modelos de Data Science e Machine Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jefferson-ximeness/)
