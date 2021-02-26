@@ -13,5 +13,6 @@ Estou me formando em ciência da computação e estou focado no estudo e aplica�
 
 ## Projetos:
 * **Analisando dados do Airbnb - Rio de Janeiro:** https://bit.ly/2ZH5chC
+* **Panorama do COVID-19:** https://bit.ly/2PjpsUJ
 ---
 
